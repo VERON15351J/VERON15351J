@@ -1,4 +1,4 @@
-Just a normal UWP and android dev
+Just a normal Windows and android dev
 Currently mastering C++ and Javascript
 
 <!---
